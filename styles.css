@@ -1,1 +1,21 @@
+td.monospace {
+    font-family: monospace;
+    background-color: yellow;
+}
 
+table, td, th {
+    border: 1px solid black;
+}
+
+.header-color {
+    color: white;
+    background-color: darkred;
+}
+
+.title {
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+}
